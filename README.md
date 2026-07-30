@@ -1,4 +1,4 @@
-# Pau Narváez Roy — 42 Projects & GitHub Profile
+# Pau Narváez Roy — GitHub Profile
 
 Hi — I’m Pau 👋
 
@@ -43,22 +43,6 @@ A collection of 42 school projects organized by program and milestone. This prof
 - Shell (for build/test scripts)
 
 This profile contains many C projects from the 42 curriculum; each project repository includes its own README with build and run instructions.
-
----
-
-## ℹ️ Notes about this repository
-- This profile README is intended to summarize and link to the project repositories I’ve created for the 42 curriculum.
-- Some multi-project repositories use Git submodules. To clone repositories with submodules:
-
-```bash
-# Clone the multi-project repo with submodules
-git clone --recurse-submodules git@github.com:Pau-Narvaez-Roy/Mis-proyectos-42.git
-
-# Or initialize submodules after cloning
-git submodule update --init --recursive
-```
-
-- If you find anything sensitive in any repository (including commit history), please contact me and I will remove it / sanitize the history.
 
 ---
 
